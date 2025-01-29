@@ -6,3 +6,5 @@ You can add as many installers as you want to the directory and code
 The only thing you need to do is confirm or deny installs for files
 
 Feel free to edit the code and apply it to your projects or turn it into an EXE file of its own for easier running
+
+I recommend using Microsoft Visual Studio code for editing and running
